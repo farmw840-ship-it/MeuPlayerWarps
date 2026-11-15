@@ -1,0 +1,8 @@
+name: MeuPlayerWarps
+version: 1.0
+main: com.servidor.playerwarps.Main
+api-version: '1.26'
+commands:
+  pw:
+    description: Abre o menu de warps dos jogadores ou gere warps.
+    aliases: [playerwarp, playerwarps, warps]
